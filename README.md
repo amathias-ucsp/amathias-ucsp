@@ -1,4 +1,4 @@
-# Olá! Eu sou o <Seu Nome> 👋
+# Olá! Eu sou o Alessandro Mathias 👋
 
 Estudante de **Análise e Desenvolvimento de Sistemas** com foco em **Cloud** e desenvolvimento **Web** (React, Node.js, Express).  
 Atualmente, construo soluções web e pequenos agentes de monitoração/integracao em **Python** com **SQL/MySQL/SQL Server/Oracle** e deploy em **AWS**.
