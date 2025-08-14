@@ -3,7 +3,7 @@
 Estudante de **Análise e Desenvolvimento de Sistemas** com foco em **Cloud** e desenvolvimento **Web** (React, Node.js, Express).  
 Atualmente, construo soluções web e pequenos agentes de monitoração/integracao em **Python** com **SQL/MySQL/SQL Server/Oracle** e deploy em **AWS**.
 
-- 🔭 Projetos em destaque: [Jogo da Memória (Vanilla JS)](https://github.com/<seu-usuario>/memory-game-vanilla) • <adicione outros>
+- 🔭 Projetos em destaque: [Jogo da Memória (Vanilla JS)](https://github.com/amathias-ucsp/memory-game-vanilla) 
 - 🌱 Estudando: AWS, testes de performance e observabilidade
 - 💼 LinkedIn: https://www.linkedin.com/in/am-ucsp
 - ✉️ Contato: amathias.ucsp@gmail.com
